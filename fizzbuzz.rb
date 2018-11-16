@@ -1,4 +1,5 @@
-def fizzbuzz(
+def fizzbuzz(fizzbuzz)
+
   
 
 end
